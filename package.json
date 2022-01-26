@@ -1,0 +1,19 @@
+{
+  "name": "learning-gsap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakeusa12/learning-gsap.git"
+  },
+  "author": "SNakeusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakeusa12/learning-gsap/issues"
+  },
+  "homepage": "https://github.com/nakeusa12/learning-gsap#readme"
+}
