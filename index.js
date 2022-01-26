@@ -179,7 +179,7 @@ window.addEventListener("resize", newSize);
 
 // make the container a draggable element
 let dragMe = Draggable.create(container, {
-  type: "y",
+  type: "scroll",
   edgeResistance: 1,
   onDragEnd: slideAnim,
   onDrag: tweenDot,
